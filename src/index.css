@@ -1,1 +1,29 @@
 @import "tailwindcss";
+body {
+  background-color: #101311;
+}
+.sora-head {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 18px;
+  color: #ffffff;
+}
+.sora-li {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  color: #ffffff;
+}
+.nav-button {
+  background-color: #d3ffca;
+  color: black;
+}
+.solitreo-regular {
+  font-family: "Solitreo", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
