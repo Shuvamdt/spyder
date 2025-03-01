@@ -11,6 +11,7 @@ const Home = () => {
         <Navbar />
         <img src="../assets/image.png" alt="" />
         <HeroSection />
+        <About />
       </div>
     </>
   );
